@@ -1,0 +1,43 @@
+#conteneur{
+    background-image:url("image.jpg") ;
+    background-size: 100%;  
+    padding-top: 1cm;
+}
+
+#title{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(255, 255, 39);
+
+}
+#pending{
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 2cm;
+    padding-left: 14cm;
+    padding-right: 14cm;
+    
+}
+
+#voila{
+    text-align: center;
+    color: rgb(255, 255, 39);
+    padding-top: 2cm;
+    font-size: x-large;
+
+}
+
+#matiere{
+    color: white;
+    text-transform: uppercase;
+    padding-left: 20cm;
+    font-size: x-large;
+}
+
+#lorem{
+    text-align: center;
+    padding-left: 14cm;
+    padding-right: 14cm;
+    color: aliceblue;
+}
